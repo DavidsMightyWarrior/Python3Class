@@ -6,3 +6,7 @@ num = 32
 text = "Get a life"
 print(text, num)
 print(text, num, sep=' ', end='\n')
+
+print("What do you want?")
+needs = input()
+print("I need: ", needs)
