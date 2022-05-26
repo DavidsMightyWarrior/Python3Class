@@ -1,0 +1,8 @@
+To work with graphics, we'll need the tkinter package. Install that with the apt tool.
+- sudo apt install python3-tk
+
+Install matplotlib with pip.
+- python3 -m pip install matplotlib
+
+Install numpy (sounds like 'num-pie').
+- python3 -m pip install numpy
